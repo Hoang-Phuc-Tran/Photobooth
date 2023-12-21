@@ -1,5 +1,6 @@
 # Photobooth Program
-![Capture](https://github.com/Hoang-Phuc-Tran/Photobooth/assets/120700092/5a37ccdc-b03b-41b3-a35e-c87588bf4df5)
+![Capture](https://github.com/Hoang-Phuc-Tran/Photobooth/assets/120700092/375e45b8-b196-4f47-bb32-2867be7cca08)
+
 
 ## Overview
 This project is a "photobooth" application that allows users to edit and draw on a live video feed from their webcam and save the edited image to their local machine.
